@@ -1,0 +1,19 @@
+ul {
+    color: goldenrod;
+}
+
+li {
+    background-color: lightgray;
+}
+
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+p {
+    text-align: center;
+}
+
+.description {
+    color: brown;
+}
